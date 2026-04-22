@@ -1,0 +1,11 @@
+{
+    "serve": "public",
+    "targets": {
+        "Rama": {
+            "inputs": [
+                "src/Main.elm"
+            ],
+            "output": "public/build/rama.js"
+        }
+    }
+}
