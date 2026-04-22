@@ -89,8 +89,4 @@ keyToKeycode key =
             Escape
 
         _ ->
-            let
-                _ =
-                    Debug.log "bad key" key
-            in
             Unknown key

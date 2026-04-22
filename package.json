@@ -5,6 +5,7 @@
     "elm-watch": "^2.0.0-beta.12"
   },
   "scripts": {
-    "start":"elm-watch hot"
+    "start": "elm-watch hot",
+    "build": "elm-watch make --optimize"
   }
 }
